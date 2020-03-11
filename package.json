@@ -2,7 +2,7 @@
   "name": "noah-theme",
   "displayName": "Noah theme",
   "description": "A simple dark theme for VS Code",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "publisher": "johnnyghost",
   "icon": "logo.png",
   "repository": {
