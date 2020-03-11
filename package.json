@@ -1,0 +1,30 @@
+{
+  "name": "noah-theme",
+  "displayName": "Noah theme",
+  "description": "A simple dark theme for VS Code",
+  "version": "0.2.0",
+  "publisher": "johnnyghost",
+  "icon": "logo.jpg",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/johnnyghost/vsc-noah-theme.git"
+  },
+  "scripts": {
+    "publish:minor": "vsce publish minor"
+  },
+  "engines": {
+    "vscode": "^1.31.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Noah Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/noah-theme-color-theme.json"
+      }
+    ]
+  }
+}
