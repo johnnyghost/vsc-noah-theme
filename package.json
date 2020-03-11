@@ -10,7 +10,9 @@
     "url": "https://github.com/johnnyghost/vsc-noah-theme.git"
   },
   "scripts": {
-    "publish:minor": "vsce publish minor"
+    "publish:patch": "vsce publish patch",
+    "publish:minor": "vsce publish minor",
+    "publish:major": "vsce publish major"
   },
   "engines": {
     "vscode": "^1.31.0"

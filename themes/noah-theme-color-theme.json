@@ -7,7 +7,7 @@
     "activityBar.dropBackground": "#20222c",
     "activityBar.foreground": "#787c99",
     "activityBar.inactiveForeground": "#3b3e52",
-    "activityBarBadge.background": "#3d59a1",
+    "activityBarBadge.background": "#2CC3CA",
     "activityBarBadge.foreground": "#ffffff",
     "badge.background": "#7e83b230",
     "badge.foreground": "#acb0d0",
@@ -201,7 +201,7 @@
     "statusBarItem.prominentBackground": "#101014",
     "statusBarItem.prominentHoverBackground": "#20222c",
     "tab.activeBackground": "#16161e",
-    "tab.activeBorder": "#3d59a1",
+    "tab.activeBorder": "#2CC3CA",
     "tab.activeForeground": "#a9b1d6",
     "tab.activeModifiedBorder": "#16161e",
     "tab.border": "#101014",
@@ -252,7 +252,7 @@
       "scope": ["comment", "punctuation.definition.comment"],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#2b2f42"
+        "foreground": "#353952"
       }
     },
     {
