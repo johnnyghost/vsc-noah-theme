@@ -4,7 +4,7 @@
   "description": "A simple dark theme for VS Code",
   "version": "0.2.0",
   "publisher": "johnnyghost",
-  "icon": "logo.jpg",
+  "icon": "logo.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/johnnyghost/vsc-noah-theme.git"
