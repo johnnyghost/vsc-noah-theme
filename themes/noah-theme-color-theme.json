@@ -36,8 +36,8 @@
     "editor.inactiveSelectionBackground": "#515c7e25",
     "editor.lineHighlightBackground": "#1e202e",
     "editor.rangeHighlightBackground": "#515c7e20",
-    "editor.selectionBackground": "#6a5eea",
-    "editor.selectionHighlightBackground": "#6a5eea",
+    "editor.selectionBackground": "#6A5EEA",
+    "editor.selectionHighlightBackground": "#6A5EEA",
     "editor.wordHighlightBackground": "#515c7e33",
     "editor.wordHighlightStrongBackground": "#515c7e44",
     "editorBracketMatch.background": "#16161e",
@@ -201,11 +201,12 @@
     "statusBarItem.prominentBackground": "#101014",
     "statusBarItem.prominentHoverBackground": "#20222c",
     "tab.activeBackground": "#16161e",
-    "tab.activeBorder": "#2CC3CA",
-    "tab.activeForeground": "#a9b1d6",
+    "tab.activeBorderTop": "#1ec2ca",
+
+    "tab.activeForeground": "#b2bbe4",
     "tab.activeModifiedBorder": "#16161e",
-    "tab.border": "#101014",
-    "tab.inactiveBackground": "#16161e",
+    "tab.border": "#16161e",
+    "tab.inactiveBackground": "#191922",
     "tab.inactiveForeground": "#787c99",
     "tab.unfocusedActiveBorder": "#595d78",
     "tab.unfocusedActiveForeground": "#a9b1d6",
@@ -288,10 +289,10 @@
       "name": "Operator, Misc",
       "scope": [
         "constant.other.color",
-        "punctuation",
         "meta.tag",
         "meta.var.expr",
         "storage.type",
+        "punctuation",
         "punctuation.definition.tag",
         "punctuation.separator.inheritance.php",
         "punctuation.definition.tag.html",
@@ -349,7 +350,7 @@
       "name": "Block Level Variables",
       "scope": ["meta.block variable.other", "support.function", "meta.tag"],
       "settings": {
-        "foreground": "#b3ece3" // changed [isLoading, setLoading]
+        "foreground": "#b3ece3"
       }
     },
     {
@@ -409,7 +410,7 @@
       "name": "Entity Types",
       "scope": ["support.type", "variable"],
       "settings": {
-        "foreground": "#B2CCD6"
+        "foreground": "#a7d7ea"
       }
     },
     {
@@ -564,7 +565,7 @@
         "source.json meta.structure.dictionary.json support.type.property-name.json"
       ],
       "settings": {
-        "foreground": "#C792EA"
+        "foreground": "#59eec1"
       }
     },
     {
