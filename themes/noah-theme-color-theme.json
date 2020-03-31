@@ -62,7 +62,7 @@
     "editorLightBulb.foreground": "#e0af68",
     "editorLightBulbAutoFix.foreground": "#e0af68",
     "editorLineNumber.activeForeground": "#737aa2",
-    "editorLineNumber.foreground": "#363b54",
+    "editorLineNumber.foreground": "#26293a",
     "editorLink.activeForeground": "#acb0d0",
     "editorMarkerNavigation.background": "#16161e",
     "editorOverviewRuler.addedForeground": "#164846",
@@ -253,7 +253,7 @@
       "scope": ["comment", "punctuation.definition.comment"],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#353952"
+        "foreground": "#26293a"
       }
     },
     {
