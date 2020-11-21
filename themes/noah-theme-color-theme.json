@@ -300,7 +300,7 @@
         "meta.export.default"
       ],
       "settings": {
-        "foreground": "#2CC3CA",
+        "foreground": "#fccc73",
       }
     },
     {
@@ -342,7 +342,7 @@
         "entity.name.function"
       ],
       "settings": {
-        "foreground": "#59eec1"
+        "foreground": "#38ffc3"
       }
     },
     {
@@ -416,7 +416,7 @@
         "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
       ],
       "settings": {
-        "foreground": "#C3E88D"
+        "foreground": "#b4eb8f"
       }
     },
     {
@@ -505,7 +505,7 @@
         "entity.other.attribute-name"
       ],
       "settings": {
-        "foreground": "#75ebaa"
+        "foreground": "#38FFC3"
       }
     },
     {
