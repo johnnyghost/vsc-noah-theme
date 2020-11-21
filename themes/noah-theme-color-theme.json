@@ -300,6 +300,7 @@
         "meta.export.default"
       ],
       "settings": {
+        "fontStyle": "bold",
         "foreground": "#fccc73",
       }
     },
@@ -441,6 +442,7 @@
         "variable"
       ],
       "settings": {
+        "fontStyle": "",
         "foreground": "#a7d7ea"
       }
     },
